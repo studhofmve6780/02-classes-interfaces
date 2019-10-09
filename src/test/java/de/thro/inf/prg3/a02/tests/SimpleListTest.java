@@ -65,4 +65,5 @@ public class SimpleListTest {
 			assertTrue(i % 2 == 0);
 		}
 	}
+
 }
